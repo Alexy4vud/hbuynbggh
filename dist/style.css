@@ -1,0 +1,41 @@
+body{
+background-image:url("https://www.shutterstock.com/image-vector/seamless-abstract-pattern-colourful-silhouettes-260nw-1838226223.jpg");
+}
+h1{
+  color:Lime;
+  text-align:center;
+}
+h2{
+  color:SpringGreen;
+  text-align:left;
+}
+a{
+ font-size:60px;
+ text-decoration:none;
+ border:3px solid red;
+ color:Red;
+  
+}
+.left{
+  float:left;    
+}
+.Right{
+ float:right;
+}
+.PERCHATKI{
+ margin:10px; 
+    height:450px; 
+ width:250px;
+   text-align:center;
+  font-size:30px;
+color:Red;
+float:left;
+}  
+a{
+color:Aqua;  
+}
+img{
+  height:240px;
+   width:250px;
+   margin:400px; 
+}
